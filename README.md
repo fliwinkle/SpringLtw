@@ -1,0 +1,1 @@
+-javaagent:C:\develops\.gradle\caches\modules-2\files-2.1\org.springframework\spring-instrument\6.0.11\8837047ded595b1561a1c8b763f9d42b84faad99\spring-instrument-6.0.11.jar
